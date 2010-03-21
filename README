@@ -1,0 +1,6 @@
+This project has been created on top of generatrix.
+
+It is eerily similar in functionality to http://github.com/talonx/book-search.
+The only difference is that this project uses PHP instead of Ruby and it uses my own framework.
+
+The actual value proposition would be the ability to buy ebooks. But we'll get to that after we have hard covers.
