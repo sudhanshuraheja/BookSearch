@@ -1,0 +1,7 @@
+body { font-size: 15px; font-family: Georgia; }
+a, a:visited { color: #00B0CC; }
+a:hover { color: #000000; }
+.home-big-input { padding: 7px; font-size: 40px; border: 1px solid #CCCCCC; font-weight: bold; font-family: "Trebuchet MS"; background-color: #F7F7F7; text-shadow: #AAAAAA 3px 3px 4px; }
+.home-big-submit { padding: 11px 5px; font-size: 30px; border: 1px solid #CCCCCC; font-weight: bold; font-family: "Trebuchet MS"; background-color: #EAF2F5; }
+.home-bookname input { width: 770px; }
+.home-booksearch input { width: 130px; color: #777777; }
